@@ -1,10 +1,9 @@
 # 🔍 SISTEMA DE BÚSQUEDA SEMÁNTICA - BoW vs TF-IDF
-
 ## 🎮 Live Demo
-Open In Colab
 
-¡Prueba el sistema de búsqueda en vivo! Haz clic en el botón de arriba para ejecutar el notebook sin instalar nada
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1COzfNOSLddQVj_761NIhOse14q5hiG_G?usp=sharing)
 
+¡Prueba el sistema de búsqueda sin instalar nada!
 ## 📋 Descripción
 Proyecto que implementa y compara dos métodos de representación de texto para búsqueda documental:
 - **Bag of Words (BoW)**: Representación basada en frecuencia de términos
